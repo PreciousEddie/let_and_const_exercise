@@ -1,0 +1,6 @@
+const PI = 3.14;
+
+1. You can redeclare and reassign var but you can only reassign let, you cannot redeclare it. Var has a function scope while let has a block scope.
+2. You cannot redecalre or reassign const unlike var. Const is a block scope.
+3. You can reassign let but you cannot reassign const.
+4. Hoisting refers to the process whereby the interperter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code.
